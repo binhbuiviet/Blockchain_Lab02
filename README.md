@@ -123,19 +123,3 @@ http://localhost:3000
 2. Kết nối lại bằng **MetaMask**
 
 ---
-
-## ✅ Hoàn tất
-
-🎉 Chúc mừng!  
-Bạn đã **clone – deploy – chạy thành công** một challenge trong Speedrun Ethereum.
-
-Nếu gặp lỗi trong quá trình chạy (gas fee, Sepolia RPC, replacement fee too low, …),
-hãy kiểm tra lại:
-- Số dư ETH Sepolia
-- RPC URL
-- Network đang sử dụng trong MetaMask
-
----
-
-📘 Tham khảo:
-- Speedrun Ethereum: https://speedrunethereum.com
